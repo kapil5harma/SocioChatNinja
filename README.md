@@ -1,2 +1,2 @@
 # SocioChatNinja
-A social media platform with chat.
+A social media platform.
